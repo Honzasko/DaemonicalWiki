@@ -1,5 +1,5 @@
 print("Welcome to MLG Console")
-print("v1.1 Beta") 
+print("v1.1 Beta (c)Honzasko") 
 
 while(True):
     input = raw_input("MLG_Command:")
